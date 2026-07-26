@@ -14,8 +14,9 @@ header {
     padding: 20px;
 }
 nav {
-    background-color: #3c81d1;
+    background-color: #3c82d19f;
     padding: 12px 0px 9px 12px;
+    border-radius: 5px;
 }
 
 nav ul{
@@ -27,8 +28,7 @@ nav ul{
 
 nav a {
     text-decoration: none;
-    color: #ffffff;
-    background-color: #0076ff;
+    color: #000000;
     text-decoration: none;
 
 }
